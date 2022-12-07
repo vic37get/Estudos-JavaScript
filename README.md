@@ -1,1 +1,1 @@
-# CursoWeb
+# Práticas de Java Script
